@@ -4,6 +4,11 @@
 <p>Welcome to my page! </br> I'm Shubham shinde, learing Fullstack developer 
 <h3>Things I code with</h3>
 <p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Html-8A2BE2?logo=html5&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-8A2BE2?logo=bootstrap&color=pink">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%20Javascript-8A2BE2?logo=javascript">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jquery-8A2BE2?logo=jquery&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%20Expressjs-8A2BE2?logo=express&color=green">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
