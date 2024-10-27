@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Shubham shinde, learing Fullstack developer 
+<p>Welcome to my page! </br> I'm Shubham shinde, learing MERN Stack developer 
 <h3>Things I code with</h3>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Html-8A2BE2?logo=html5&color=white">
