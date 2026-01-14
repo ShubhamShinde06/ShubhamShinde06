@@ -19,4 +19,6 @@
   <img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=radixui&logoColor=white" />
+  <img alt="VPS Server" src="https://img.shields.io/badge/-VPS%20Server-333333?style=flat-square&logo=serverless&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </p>
