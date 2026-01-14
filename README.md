@@ -21,4 +21,5 @@
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=radixui&logoColor=white" />
   <img alt="VPS Server" src="https://img.shields.io/badge/-VPS%20Server-333333?style=flat-square&logo=serverless&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
